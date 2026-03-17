@@ -1,6 +1,6 @@
-# Project Name: bankmanagemet
+Project Name: Bank Management
 
-## Description
+Description:-
 The Bank Management System is a console-based Java application developed to simulate essential banking functionalities. The program provides 
 a simple interface where users can authenticate using an account number and PIN to access various services.
 
@@ -9,7 +9,7 @@ calculating gold loan interest based on the weight of gold and repayment duratio
 use of Java programming concepts including conditional logic, loops, user input handling with the Scanner class, and basic financial
 computations within a command-line environment.
 
-## Features
+Features:-
 1. User Authentication – Secure login using Account Number and PIN.
 2. Deposit Ammount – Allows users to add money to their account balance.
 3. Withdraw Ammount – Enables withdrawal with balance validation.
@@ -19,17 +19,10 @@ computations within a command-line environment.
 7. Interest Calculation – Computes interest based on the loan duration.
 8. Console Interface – It is a simple Console-Based Mini Project.
 
-## Technologies Used
+Technologies Used:-
 -java
 -Iteration and Control Flow Statements
 
-## How to Run
 
-1. Compile the program
-   javac bankmanagement.java
-
-2. Run the program
-   java bankmanagement
-
-##Author
-Sakthi Kamal
+Author:-
+Sakthivel
